@@ -27,4 +27,4 @@
   <a href="https://www.youtube.com/channel/UCdez2yBp2P8W45lY71JerKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
 </div>
 
-![snake gif](https://github.com/your-user-name/your-user-name/blob/output/github-contribution-grid-snake.gif)
+#![snake gif](https://github.com/raquelvuicik/raquelvuicik/blob/output/github-contribution-grid-snake.gif)
