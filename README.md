@@ -27,8 +27,6 @@
   <a href="https://www.youtube.com/channel/UCdez2yBp2P8W45lY71JerKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
 </div>
 
-![snake gif](https://github.com/raquelvuicik/raquelvuicik/blob/output/github-contribution-grid-snake.gif)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raquelvuicik/raquelvuicik/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raquelvuicik/raquelvuicik/output/github-contribution-grid-snake.svg">
