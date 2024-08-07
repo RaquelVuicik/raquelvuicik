@@ -17,3 +17,14 @@
   <img align="right" alt="Raquel-gif" height="200" width="200" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/raquel_gif.gif">
 </div>
 
+##
+
+<div>
+  <a href="https://www.linkedin.com/in/raquelvuicikarquitetura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/raquelvuicik.arquitetura" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "raquelvuicik1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.twitch.tv/raquelvuicik" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/channel/UCdez2yBp2P8W45lY71JerKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
+
+
