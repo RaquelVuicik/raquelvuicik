@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Raquel Vuicik
 
-- 🔭 Hoje trabalho com front-end
+- 🔭 Front-end
 - 🌱 Estudando JavaScript
 - 😄 Pronouns: ela/dela
   
