@@ -1,7 +1,8 @@
 ## Oiii! Eu sou a Raquel Vuicik
 
-- 🔭 Front-end
-- 🌱 Estudando JavaScript
+- 🎓 Arquiteta e Urbanista por formação e estudante de programação 🚀
+- 🌱 Atualmente estou estudando JavaScript, React, Vite e Node.js
+- 📈 Acompanhe a minha evolução e deixe a sua estrela ⭐
 - 😄 Pronouns: ela/dela
   
  <div>
@@ -11,9 +12,12 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Raquel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Raquel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raquel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Raquel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Raquel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Raquel-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Raquel-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Raquel-Vite" height="40" width="40" src="https://vitejs.dev/logo-with-shadow.png">
+  <img align="center" alt="Raquel-node.js" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
   <img align="right" alt="Raquel-gif" height="200" width="200" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/rv.gif">
 </div>
 
