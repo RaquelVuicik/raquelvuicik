@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Raquel Vuicik
 
 - 🎓 Arquiteta e Urbanista por formação e estudante de programação 🚀
-- 🌱 Atualmente estou estudando React, Typescript e Sass
+- 🌱 Atualmente estou estudando JavaScript com foco no back-end e PHP
 - 📈 Acompanhe a minha evolução e deixe a sua estrela ⭐
 - 😄 Pronouns: ela/dela
   
