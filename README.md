@@ -21,7 +21,7 @@
   <img align="center" alt="Raquel-typescript" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
   <img align="center" alt="Raquel-sass" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
   <img align="center" alt="Raquel-php" height="80" width="80" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/PHP.png">
-  <img align="center" alt="Raquel-laravel" height="80" width="80" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/Laravel.png">
+  <img align="center" alt="Raquel-laravel" height="40" width="40" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/Laravel.png">
   <img align="right" alt="Raquel-gif" height="200" width="200" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/rv.gif">
 </div>
 
