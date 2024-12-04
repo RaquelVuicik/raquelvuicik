@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Raquel Vuicik
 
 - 🎓 Arquiteta e Urbanista por formação e estudante de programação 🚀
-- 🌱 Atualmente estou estudando PHP, Laravel e Quasar;
+- 🌱 Atualmente estou estudando PHP, Laravel Vue e Quasar;
 - 📈 Acompanhe a minha evolução e deixe a sua estrela ⭐
 - 😄 Pronouns: ela/dela
   
@@ -20,9 +20,10 @@
   <img align="center" alt="Raquel-node.js" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
   <img align="center" alt="Raquel-typescript" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
   <img align="center" alt="Raquel-sass" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
-  <img align="center" alt="Raquel-php" height="80" width="80" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/PHP.png">
   <img align="center" alt="Raquel-composer" height="50" width="50" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/Composer.png">
+  <img align="center" alt="Raquel-php" height="80" width="80" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/PHP.png">
   <img align="center" alt="Raquel-laravel" height="40" width="40" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/Laravel.png">
+  <img align="center" alt="Raquel-vue" height="40" width="40" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/Vue.js.png">
   <img align="center" alt="Raquel-quasar" height="40" width="40" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/Quasar.png">
   <img align="right" alt="Raquel-gif" height="200" width="200" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/rv.gif">
 </div>
