@@ -1,7 +1,7 @@
 ## Oiii! Eu sou a Raquel Vuicik
 
 - 🎓 Arquiteta e Urbanista por formação e estudante de programação 🚀
-- 🌱 Atualmente estou estudando PHP, Laravel Vue e Quasar;
+- 🌱 Atualmente estou estudando PHP, Laravel, Vue e Quasar;
 - 📈 Acompanhe a minha evolução e deixe a sua estrela ⭐
 - 😄 Pronouns: ela/dela
   
