@@ -1,7 +1,8 @@
 ## Oiii! Eu sou a Raquel Vuicik
 
-- 🎓 Arquiteta e Urbanista por formação e estudante de programação 🚀
-- 🌱 Atualmente estou estudando PHP, Laravel, Vue e SQL;
+- 🎓 Full Stack Developer | PHP • Laravel • JavaScript • Vue • SQL
+- 💡 Pós-graduação em Liderança Técnica
+- 🚀 Apaixonada por tecnologia e soluções eficientes.
 - 📈 Acompanhe a minha evolução e deixe a sua estrela ⭐
 - 😄 Pronouns: ela/dela
   
@@ -31,8 +32,8 @@
 ##
 
 <div>
-  <a href="https://www.linkedin.com/in/raquelvuicikarquitetura/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/raquelvuicik.arquitetura" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/raquelvuicik/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/raquel.vuicik" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "raquelvuicik1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.twitch.tv/raquelvuicik" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCdez2yBp2P8W45lY71JerKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
