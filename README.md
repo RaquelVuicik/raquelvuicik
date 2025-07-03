@@ -1,8 +1,8 @@
 ## Oiii! Eu sou a Raquel Vuicik
 
 - 🎓 Desenvolvedora Full Stack | PHP • Laravel • JavaScript • Vue • SQL
-- 💡 Pós-graduação em Liderança Técnica
-- 🚀 Apaixonada por tecnologia e soluções eficientes.
+- 💡 Pós-graduação em Liderança Técnica em andamento...
+- 🚀 Estou em constante evolução, sempre em busca de inovação e conhecimento.
 - 📈 Acompanhe a minha evolução e deixe a sua estrela ⭐
 - 😄 Pronouns: ela/dela
   
