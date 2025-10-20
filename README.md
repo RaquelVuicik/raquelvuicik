@@ -1,10 +1,13 @@
-## Oii! Eu sou a Raquel Vuicik
+## Oii! Eu sou a Raquel Vuicik 👋
 
-- 🎓 Desenvolvedora Full Stack | PHP • Laravel • JavaScript • Vue • SQL
-- 💡 Pós-graduação em Liderança Técnica em andamento...
-- 🚀 Estou em constante evolução, sempre em busca de inovação e conhecimento.
-- 📈 Acompanhe a minha evolução e deixe a sua estrela ⭐
-- 😄 Pronouns: ela/dela
+👩🏻‍💻 Sou Desenvolvedora Full Stack com foco em PHP, Laravel, JavaScript, Vue.js e SQL.
+
+🎓 Formada em Arquitetura e Urbanismo, fiz minha transição de carreira para TI e descobri uma nova paixão: criar soluções que unem lógica, design e performance.
+
+💡 Tenho pós-graduação em Liderança Técnica e sou movida pela curiosidade e pelo desejo constante de aprender — adoro entender como as coisas funcionam e transformar conhecimento em prática.
+🚀 Estou em constante evolução e registrando aqui no GitHub cada passo dessa jornada.
+
+📈 Fique à vontade para acompanhar minha evolução e deixar sua estrela ⭐
   
  <div>
   <a href="[https://github.com/RaquelVuicik]">
