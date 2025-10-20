@@ -1,46 +1,62 @@
-## Oii! Eu sou a Raquel Vuicik 👋
+### Hey there! I'm Raquel Vuicik 👋  
+#### Welcome!
 
-👩🏻‍💻 Sou Desenvolvedora Full Stack com foco em PHP, Laravel, JavaScript, Vue.js e SQL.
+👩🏻‍💻 I'm a **Full Stack Developer** passionate about creating solutions that combine **logic, design, and performance**.  
+🎓 Graduated in **Architecture and Urbanism**, I made my **career transition to IT**, where I found a new way to build — now crafting systems instead of spaces.  
+💡 I hold a **postgraduate degree in Technical Leadership** and am driven by curiosity, continuous learning, and the desire to transform knowledge into practice.  
+🚀 Here on GitHub, I document my **evolution as a developer** and share the projects that reflect my growth and passion for technology.  
 
-🎓 Formada em Arquitetura e Urbanismo, fiz minha transição de carreira para TI e descobri uma nova paixão: criar soluções que unem lógica, design e performance.
-
-💡 Tenho pós-graduação em Liderança Técnica e sou movida pela curiosidade e pelo desejo constante de aprender — adoro entender como as coisas funcionam e transformar conhecimento em prática.
-🚀 Estou em constante evolução e registrando aqui no GitHub cada passo dessa jornada.
-
-📈 Fique à vontade para acompanhar minha evolução e deixar sua estrela ⭐
-  
- <div>
-  <a href="[https://github.com/RaquelVuicik]">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=raquelvuicik&show_icons=false&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelvuicik&layout=compact&langs_count=16&theme=dracula"/>
-</div>
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Raquel-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Raquel-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Raquel-Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Raquel-React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Raquel-Vite" height="40" width="40" src="https://vite.dev/logo.svg">
-  <img align="center" alt="Raquel-node.js" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183568594-85e280a7-0d7e-4d1a-9028-c8c2209e073c.png">
-  <img align="center" alt="Raquel-typescript" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png">
-  <img align="center" alt="Raquel-sass" height="40" width="40" src="https://user-images.githubusercontent.com/25181517/192158956-48192682-23d5-4bfc-9dfb-6511ade346bc.png">
-  <img align="center" alt="Raquel-composer" height="50" width="50" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/Composer.png">
-  <img align="center" alt="Raquel-php" height="80" width="80" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/PHP.png">
-  <img align="center" alt="Raquel-laravel" height="40" width="40" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/Laravel.png">
-  <img align="center" alt="Raquel-vue" height="40" width="40" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/Vue.js.png">
-  <img align="center" alt="Raquel-quasar" height="40" width="40" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/Quasar.png">
-  <img align="right" alt="Raquel-gif" height="200" width="200" src="https://github.com/RaquelVuicik/raquelvuicik/blob/main/rv.gif">
-</div>
-
-##
+#### It is important...
+...to tell you that this space is where I record my learning journey and evolution in tech.  
+I hope you enjoy being here! 💜  
 
 <div>
-  <a href="https://www.linkedin.com/in/raquelvuicik/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/raquel.vuicik" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "raquelvuicik1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/raquelvuicik" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCdez2yBp2P8W45lY71JerKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>  
+  <a href="https://github.com/raquelvuicik">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raquelvuicik&layout=compact&langs_count=7&theme=dracula"/> 
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=raquelvuicik&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+
+---
+
+#### ⚙️ Tech Stack
+
+- **BackEnd:**  
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=composer&logoColor=white"/>
+
+- **FrontEnd:**  
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/> 
+  <img src="https://img.shields.io/badge/Quasar-1976D2?style=for-the-badge&logo=quasar&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+- **Databases:**  
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=databricks&logoColor=white"/>
+
+- **Tools & Version Control:**  
+  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+
+---
+
+#### ✍🏻 Find me here:
+
+<div>
+  <a href="https://www.linkedin.com/in/raquelvuicik/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://instagram.com/raquel.vuicik" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="mailto:raquelvuicik1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.youtube.com/channel/UCdez2yBp2P8W45lY71JerKQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>  
+  <a href="https://www.twitch.tv/raquelvuicik" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white"></a>
+</div>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raquelvuicik/raquelvuicik/output/github-contribution-grid-snake-dark.svg">
