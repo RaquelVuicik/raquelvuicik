@@ -1,14 +1,26 @@
-### Hey there! I'm Raquel Vuicik 👋  
-#### Welcome!
+## Hey there! I'm Raquel Vuicik 👋 
 
-👩🏻‍💻 I'm a **Full Stack Developer** passionate about creating solutions that combine **logic, design, and performance**.  
-🎓 Graduated in **Architecture and Urbanism**, I made my **career transition to IT**, where I found a new way to build — now crafting systems instead of spaces.  
-💡 I hold a **postgraduate degree in Technical Leadership** and am driven by curiosity, continuous learning, and the desire to transform knowledge into practice.  
-🚀 Here on GitHub, I document my **evolution as a developer** and share the projects that reflect my growth and passion for technology.  
+### Software Engineer 💻
 
-#### It is important...
-...to tell you that this space is where I record my learning journey and evolution in tech.  
-I hope you enjoy being here! 💜  
+I'm a **Software Engineer** focused on building modern web applications using **PHP, Laravel, JavaScript, Vue.js, and SQL.**
+
+🎓 With a **Postgraduate Degree in Technical Leadership**, I'm constantly improving my skills in **software architecture, clean code, best development practices, and building scalable, high-quality solutions.**
+
+🏛️ My background in **Architecture and Urbanism** brings a unique perspective to software engineering. It strengthened my analytical thinking, systems mindset, and problem-solving abilities, allowing me to design, develop, test, and evolve software in a structured way while always focusing on **user experience** and **business value.**
+
+🚀 I believe that continuous learning, collaboration, and well-designed software are the foundation for creating solutions that make a real impact.
+
+---
+
+## 📚 About this GitHub
+
+This GitHub is where I document my learning journey, share personal projects, and showcase my growth as a software engineer.
+
+Every repository represents another step in my commitment to becoming a better developer and building software with quality, purpose, and continuous improvement.
+
+Thanks for stopping by! Feel free to explore my projects. 💜
+
+
 
 <div>
   <a href="https://github.com/raquelvuicik">
