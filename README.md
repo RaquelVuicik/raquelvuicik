@@ -1,3 +1,30 @@
+Olá! Sou a Raquel Vuicik 👋
+
+### Engenheira de Software 💻
+
+Atualmente focada no desenvolvimento de software com **PHP, Laravel, JavaScript, Vue.js e SQL.**
+
+🎓 Com **Pós-Graduação em Liderança Técnica**, estou constantemente aprimorando minhas habilidades em **arquitetura de software, código limpo, melhores práticas de desenvolvimento e criação de soluções escaláveis ​​e de qualidade.**
+
+🏛️ Minha formação em **Arquitetura e Urbanismo** traz uma perspectiva única para a engenharia de software. Ela fortaleceu meu pensamento analítico, minha mentalidade sistêmica e minhas habilidades de resolução de problemas, permitindo-me projetar, desenvolver, testar e evoluir softwares de forma estruturada, sempre com foco na **experiência do usuário** e no **valor para o negócio**.
+
+🚀 Acredito que o aprendizado contínuo, a colaboração e um software bem projetado são a base para a criação de soluções que geram impacto real.
+
+---
+
+## 📚 Sobre este GitHub
+
+Este GitHub é onde documento minha jornada de aprendizado, compartilho projetos pessoais e mostro meu crescimento como engenheira de software.
+
+Cada repositório representa mais um passo no meu compromisso de me tornar uma desenvolvedora melhor e construir software com qualidade, propósito e melhoria contínua.
+
+Obrigado pela visita! Sinta-se à vontade para explorar meus projetos. 💜
+
+<details>
+<summary><b>English</b></summary>
+
+<br>
+
 ## Hey there! I'm Raquel Vuicik 👋 
 
 ### Software Engineer 💻
@@ -20,7 +47,7 @@ Every repository represents another step in my commitment to becoming a better d
 
 Thanks for stopping by! Feel free to explore my projects. 💜
 
-
+</details>
 
 <div>
   <a href="https://github.com/raquelvuicik">
