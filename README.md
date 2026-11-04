@@ -1,4 +1,4 @@
-Olá! Sou a Raquel Vuicik 👋
+## Olá! Sou a Raquel Vuicik 👋
 
 ### Engenheira de Software 💻
 
